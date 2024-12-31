@@ -1,0 +1,310 @@
+[
+    {
+        "nombre": "Sofía",
+        "apellido": "Martínez",
+        "especialidad": "Cardiología",
+        "añosExperiencia": 12,
+        "atencion": "Isapre"
+    },
+    {
+        "nombre": "Carlos",
+        "apellido": "Rodríguez",
+        "especialidad": "Pediatría",
+        "añosExperiencia": 8,
+        "atencion": "Fonasa"
+    },
+    {
+        "nombre": "Ana",
+        "apellido": "Pérez",
+        "especialidad": "Neurología",
+        "añosExperiencia": 15,
+        "atencion": "Isapre"
+    },
+    {
+        "nombre": "Javier",
+        "apellido": "Gómez",
+        "especialidad": "Dermatología",
+        "añosExperiencia": 6,
+        "atencion": "Fonasa"
+    },
+    {
+        "nombre": "Isabella",
+        "apellido": "López",
+        "especialidad": "Oftalmología",
+        "añosExperiencia": 10,
+        "atencion": "Isapre"
+    },
+    {
+        "nombre": "Daniel",
+        "apellido": "Hernández",
+        "especialidad": "Ginecología",
+        "añosExperiencia": 7,
+        "atencion": "Fonasa"
+    },
+    {
+        "nombre": "Valentina",
+        "apellido": "Sánchez",
+        "especialidad": "Oncología",
+        "añosExperiencia": 18,
+        "atencion": "Isapre"
+    },
+    {
+        "nombre": "Martín",
+        "apellido": "Fernández",
+        "especialidad": "Urología",
+        "añosExperiencia": 11,
+        "atencion": "Fonasa"
+    },
+    {
+        "nombre": "Camila",
+        "apellido": "Vargas",
+        "especialidad": "Medicina Interna",
+        "añosExperiencia": 13,
+        "atencion": "Isapre"
+    },
+    {
+        "nombre": "Sebastián",
+        "apellido": "Jiménez",
+        "especialidad": "Traumatología",
+        "añosExperiencia": 9,
+        "atencion": "Fonasa"
+    },
+    {
+        "nombre": "Lucía",
+        "apellido": "Díaz",
+        "especialidad": "Endocrinología",
+        "añosExperiencia": 14,
+        "atencion": "Isapre"
+    },
+    {
+        "nombre": "Matías",
+        "apellido": "Ramírez",
+        "especialidad": "Neumología",
+        "añosExperiencia": 5,
+        "atencion": "Fonasa"
+    },
+    {
+        "nombre": "Renata",
+        "apellido": "Castro",
+        "especialidad": "Reumatología",
+        "añosExperiencia": 16,
+        "atencion": "Isapre"
+    },
+    {
+        "nombre": "Benjamín",
+        "apellido": "Aguilar",
+        "especialidad": "Psiquiatría",
+        "añosExperiencia": 10,
+        "atencion": "Fonasa"
+    },
+    {
+        "nombre": "Emilia",
+        "apellido": "Herrera",
+        "especialidad": "Gastroenterología",
+        "añosExperiencia": 17,
+        "atencion": "Isapre"
+    },
+    {
+        "nombre": "Nicolás",
+        "apellido": "Silva",
+        "especialidad": "Infectología",
+        "añosExperiencia": 8,
+        "atencion": "Fonasa"
+    },
+    {
+        "nombre": "Amanda",
+        "apellido": "Torres",
+        "especialidad": "Anestesiología",
+        "añosExperiencia": 11,
+        "atencion": "Isapre"
+    },
+    {
+        "nombre": "Felipe",
+        "apellido": "Vega",
+        "especialidad": "Radiología",
+        "añosExperiencia": 6,
+        "atencion": "Fonasa"
+    },
+    {
+        "nombre": "Antonia",
+        "apellido": "Rojas",
+        "especialidad": "Cirugía General",
+        "añosExperiencia": 12,
+        "atencion": "Isapre"
+    },
+    {
+        "nombre": "Tomás",
+        "apellido": "Morales",
+        "especialidad": "Medicina Familiar",
+        "añosExperiencia": 9,
+        "atencion": "Fonasa"
+    },
+    {
+        "nombre": "Catalina",
+        "apellido": "Navarro",
+        "especialidad": "Hematología",
+        "añosExperiencia": 15,
+        "atencion": "Isapre"
+    },
+    {
+        "nombre": "Cristóbal",
+        "apellido": "Ortega",
+        "especialidad": "Nefrología",
+        "añosExperiencia": 7,
+        "atencion": "Fonasa"
+    },
+    {
+        "nombre": "Paula",
+        "apellido": "Valenzuela",
+        "especialidad": "Cardiología",
+        "añosExperiencia": 14,
+        "atencion": "Isapre"
+    },
+    {
+        "nombre": "Diego",
+        "apellido": "Fuentes",
+        "especialidad": "Pediatría",
+        "añosExperiencia": 10,
+        "atencion": "Fonasa"
+    },
+    {
+        "nombre": "Constanza",
+        "apellido": "Pizarro",
+        "especialidad": "Neurología",
+        "añosExperiencia": 13,
+        "atencion": "Isapre"
+    },
+    {
+        "nombre": "Ricardo",
+        "apellido": "Guzmán",
+        "especialidad": "Dermatología",
+        "añosExperiencia": 8,
+        "atencion": "Fonasa"
+    },
+    {
+        "nombre": "Macarena",
+        "apellido": "Miranda",
+        "especialidad": "Oftalmología",
+        "añosExperiencia": 16,
+        "atencion": "Isapre"
+    },
+    {
+        "nombre": "Ignacio",
+        "apellido": "Cárdenas",
+        "especialidad": "Ginecología",
+        "añosExperiencia": 6,
+        "atencion": "Fonasa"
+    },
+    {
+        "nombre": "Fernanda",
+        "apellido": "Romero",
+        "especialidad": "Oncología",
+        "añosExperiencia": 11,
+        "atencion": "Isapre"
+    },
+    {
+        "nombre": "Joaquín",
+        "apellido": "Ríos",
+        "especialidad": "Urología",
+        "añosExperiencia": 18,
+        "atencion": "Fonasa"
+    },
+    {
+        "nombre": "Josefa",
+        "apellido": "Contreras",
+        "especialidad": "Medicina Interna",
+        "añosExperiencia": 9,
+        "atencion": "Isapre"
+    },
+    {
+        "nombre": "Manuel",
+        "apellido": "Salazar",
+        "especialidad": "Traumatología",
+        "añosExperiencia": 12,
+        "atencion": "Fonasa"
+    },
+    {
+        "nombre": "Victoria",
+        "apellido": "Mendoza",
+        "especialidad": "Endocrinología",
+        "añosExperiencia": 10,
+        "atencion": "Isapre"
+    },
+    {
+        "nombre": "Gabriel",
+        "apellido": "Núñez",
+        "especialidad": "Neumología",
+        "añosExperiencia": 7,
+        "atencion": "Fonasa"
+    },
+    {
+        "nombre": "Carolina",
+        "apellido": "Sepúlveda",
+        "especialidad": "Reumatología",
+        "añosExperiencia": 14,
+        "atencion": "Isapre"
+    },
+    {
+        "nombre": "Francisco",
+        "apellido": "Mora",
+        "especialidad": "Psiquiatría",
+        "añosExperiencia": 5,
+        "atencion": "Fonasa"
+    },
+    {
+        "nombre": "Martina",
+        "apellido": "Paredes",
+        "especialidad": "Gastroenterología",
+        "añosExperiencia": 17,
+        "atencion": "Isapre"
+    },
+    {
+        "nombre": "Alejandro",
+        "apellido": "Fuenzalida",
+        "especialidad": "Infectología",
+        "añosExperiencia": 6,
+        "atencion": "Fonasa"
+    },
+    {
+        "nombre": "Valentina",
+        "apellido": "Reyes",
+        "especialidad": "Anestesiología",
+        "añosExperiencia": 11,
+        "atencion": "Isapre"
+    },
+    {
+        "nombre": "Agustín",
+        "apellido": "Orellana",
+        "especialidad": "Radiología",
+        "añosExperiencia": 8,
+        "atencion": "Fonasa"
+    },
+    {
+        "nombre": "Florencia",
+        "apellido": "Vera",
+        "especialidad": "Cirugía General",
+        "añosExperiencia": 16,
+        "atencion": "Isapre"
+    },
+    {
+        "nombre": "Vicente",
+        "apellido": "Soto",
+        "especialidad": "Medicina Familiar",
+        "añosExperiencia": 13,
+        "atencion": "Fonasa"
+    },
+    {
+        "nombre": "Daniela",
+        "apellido": "Valdés",
+        "especialidad": "Hematología",
+        "añosExperiencia": 10,
+        "atencion": "Isapre"
+    },
+    {
+        "nombre": "Samuel",
+        "apellido": "Maldonado",
+        "especialidad": "Nefrología",
+        "añosExperiencia": 9,
+        "atencion": "Fonasa"
+    }
+]
